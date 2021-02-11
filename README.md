@@ -1,6 +1,6 @@
 # login-nodejs-passport
 
-Principais comandos:
+Comandos:
 
 npm i -g express-generator
 
